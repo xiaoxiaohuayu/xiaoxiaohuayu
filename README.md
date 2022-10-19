@@ -1,7 +1,7 @@
 ## 我是小桦鱼 🐟
 
 - 🐧 小作坊公司开发攻城狮
-- 🏡 博客：<a href="https://xiaohuayu.work" target="_blank">博客地址</a>
+- 🏡 博客：暂无
 - 💬 微信：gank_ADC
 - 🤔 渴望大佬的力量
 
